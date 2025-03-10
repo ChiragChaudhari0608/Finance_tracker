@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://chiragchaudhari0608:Of5uuPUzHYn8MU5z@expense-tracker-cluste.n5y4y.mongodb.net/authdb?retryWrites=true&w=majority&appName=expense-tracker-cluster",
-  "jwtSecret": "your_jwt_secret"
-}
