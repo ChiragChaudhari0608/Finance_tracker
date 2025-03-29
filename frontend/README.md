@@ -5,7 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+~ In backend folder run the following command to initialize node server 
+### npm install init -y
 
+Run the following command in both frontend and backend
+Install necessary dependencies
+### npm install
+To start the application 
 ### `npm start`
 
 Runs the app in the development mode.\
