@@ -1,4 +1,4 @@
-# Expense Tracker 🚀
+# Finance Tracker 🚀
 
 A full-stack MERN application that allows users to track their income and expenses. It provides a user-friendly interface to manage finances, with data visualization to give a clear overview of financial habits.
 
